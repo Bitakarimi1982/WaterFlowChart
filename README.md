@@ -1,0 +1,1 @@
+Water Flow Chart: Für eine Landschaft, dargestellt durch eine rechteckige zweidimensionale Karte mit einem Höhenwert pro Feld, soll untersucht werden, ob Wasser von einem bestimmten Feld über den Rand der Karte abfließen kann.  
